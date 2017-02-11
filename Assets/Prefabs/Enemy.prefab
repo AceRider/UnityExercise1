@@ -661,6 +661,11 @@ MonoBehaviour:
     timeInSeconds: 0
     keyCode: 0
     keyMode: 0
+  - selectionValue: 2
+    layer: 8
+    timeInSeconds: 0
+    keyCode: 0
+    keyMode: 0
 --- !u!114 &114600507010984714
 MonoBehaviour:
   m_ObjectHideFlags: 1

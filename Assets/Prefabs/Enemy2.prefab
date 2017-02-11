@@ -679,3 +679,8 @@ MonoBehaviour:
     timeInSeconds: 0
     keyCode: 0
     keyMode: 0
+  - selectionValue: 2
+    layer: 8
+    timeInSeconds: 0
+    keyCode: 0
+    keyMode: 0
